@@ -20,11 +20,12 @@
 
 [Shape Up](https://basecamp.com/shapeup/webbook)
 
-## Code
+## Patterns
 
-[Code forensics](https://www.npmjs.com/package/code-forensics)
+[Strongly typed ids](https://andrewlock.net/using-strongly-typed-entity-ids-to-avoid-primitive-obsession-part-1/)
 
 ## Tools
+[Code forensics](https://www.npmjs.com/package/code-forensics)
 
 [Mindmap](https://www.mindmup.com/)
 
