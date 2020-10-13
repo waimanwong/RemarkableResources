@@ -43,6 +43,8 @@
 
 [Gource](https://gource.io/)
 
+[SourceCodeCloud](https://github.com/ap0llo/sourcecodecloud)
+
 ## Misc
 
 [Blog of Sebastian Gebski](https://no-kill-switch.ghost.io/)
