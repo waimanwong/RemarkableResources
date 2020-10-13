@@ -24,6 +24,10 @@
 
 [Strongly typed ids](https://andrewlock.net/using-strongly-typed-entity-ids-to-avoid-primitive-obsession-part-1/)
 
+## Algorithms/Data strcutures
+
+[Smitsimax](https://www.codingame.com/playgrounds/36476/smitsimax)
+
 ## Tools
 [Code forensics](https://www.npmjs.com/package/code-forensics)
 
@@ -34,3 +38,5 @@
 ## Misc
 
 [Blog of Sebastian Gebski](https://no-kill-switch.ghost.io/)
+
+[.NET Rocks podcast](https://www.dotnetrocks.com/)
