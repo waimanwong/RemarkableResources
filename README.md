@@ -1,4 +1,4 @@
-# Links to various resurces
+# Links to various resources
 
 ## Leaderships
 
