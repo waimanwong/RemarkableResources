@@ -41,6 +41,8 @@
 
 [GraphViz](https://graphviz.org/)
 
+[Gource](https://gource.io/)
+
 ## Misc
 
 [Blog of Sebastian Gebski](https://no-kill-switch.ghost.io/)
