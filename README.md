@@ -24,6 +24,12 @@
 
 [Strongly typed ids](https://andrewlock.net/using-strongly-typed-entity-ids-to-avoid-primitive-obsession-part-1/)
 
+## Frameworks and libraries
+
+[FluentAssertions](https://fluentassertions.com/)
+
+[FluentValidations](https://fluentvalidation.net/)
+
 ## Algorithms/Data strcutures
 
 [Smitsimax](https://www.codingame.com/playgrounds/36476/smitsimax)
