@@ -28,7 +28,7 @@
 
 [Mindmap](https://www.mindmup.com/)
 
-[GraphViz] (https://graphviz.org/)
+[GraphViz](https://graphviz.org/)
 
 ## Misc
 
